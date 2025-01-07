@@ -1,6 +1,6 @@
 # AI-Sudoku-solver
 **********************************
-Author:   Pranav DeshmukH
+Author:   Pranav Deshmukh
 File:     README.md
 **********************************
 
