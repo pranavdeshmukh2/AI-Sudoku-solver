@@ -1,10 +1,10 @@
 ################################################################################
-# Author:   Evan Dietrich
-# Course:   Comp 131 - Intro AI
-# Prof:     Santini
+# Author:   Pranav Deshmukh
+# Course:   Ai
+# Prof:     student
 #
 # Assign:   Constraint Satisfaction Problems
-# Date:     10/28/2020
+# Date:     01/06/2025
 # File:     sudosolver.py
 ################################################################################
 
