@@ -1,11 +1,6 @@
 # AI-Sudoku-solver
 **********************************
-Author:   Evan Dietrich
-Course:   Comp 131 - Intro AI
-Prof:     Santini
-
-Assign:   Constraint Satisfaction Problems
-Date:     10/28/2020
+Author:   Pranav DeshmukH
 File:     README.md
 **********************************
 
